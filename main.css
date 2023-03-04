@@ -1,0 +1,26 @@
+body {
+    background-color:beige
+}
+
+div {
+    color:black;
+}
+
+section {
+ border: 2px solid;
+ margin: 5px;
+ padding: 15px;
+}
+
+.description {
+    display:-moz-marker;
+    margin: 10px;
+}
+
+.Education {
+    display:-moz-marker;
+    margin: 10px;
+}
+img {
+    margin: 10px
+}
